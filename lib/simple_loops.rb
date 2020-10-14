@@ -1,7 +1,7 @@
-def loop_message_five_times(message,counter)
- counter =0
-  while loop_message_five_times[counter] do
-  puts loop_message_five_times[counter]
+def loop_message_five_times(message)
+ message =0
+  while loop_message_five_times[message] do
+  puts loop_message_five_times[message]
   counter += 1
 end
 
