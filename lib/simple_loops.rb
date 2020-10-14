@@ -31,3 +31,4 @@ def return_string_array (array)
     puts array[count]
     count += 1
   end
+end
