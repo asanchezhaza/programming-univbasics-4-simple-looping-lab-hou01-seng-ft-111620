@@ -1,9 +1,10 @@
 def loop_message_five_times(message)
- count = 0 
- while count <6 
- count +=1
+ message = 0 
+ while message <6 
+ message +=1
 
 
-end 
+end
+end
 
 
